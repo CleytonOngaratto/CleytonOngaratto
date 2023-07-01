@@ -1,6 +1,6 @@
-## Oi eu sou o Cleyton Ongaratto, programador em formação!
+## Oi eu sou o Cleyton Ongaratto, dev juninho em constante evolução!
 
-- 🔭 Atualmente trabalho com Compra e Venda de Recicláveis
-- 🌱 Estudando Desenvolvimento Web Full Stack
+- 🔭 Atualmente trabalho como Analista de BI
+- 🌱 Estudando Desenvolvimento Web Backend
 - 💬 Ask me about ...
 - 😄 Pronouns: ele/dele
